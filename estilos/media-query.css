@@ -4,7 +4,7 @@
         background-image: linear-gradient(to top,#8FD99A, #17BF41);
     }
     section#login{
-        width: 80vh;
+       width: 500px;
     }
     section#login > div#imagem{
         float: left;
